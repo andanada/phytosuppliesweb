@@ -2,7 +2,7 @@
 
 const partners = [
   { src: "/images/partners/athena.svg", alt: "Athena Nutrients" },
-  { src: "/images/partners/trolmaster.png", alt: "TrolMaster" },
+  { src: "/images/partners/trolmaster.webp", alt: "TrolMaster" },
   { src: "/images/partners/matrix.svg", alt: "Matrix LED" },
   { src: "/images/partners/ripperseeds.jpg", alt: "Ripper Seeds" },
 ];
@@ -581,3 +581,4 @@ export default function HomePage() {
     </main>
   );
 }
+
