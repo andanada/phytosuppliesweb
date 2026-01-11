@@ -12,7 +12,6 @@ const partnersLoop = [
   ...partners,
   ...partners,
   ...partners,
-  ...partners,
 ];
 
 const stats = [
