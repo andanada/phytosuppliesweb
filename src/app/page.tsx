@@ -4,7 +4,6 @@ const partners = [
   { src: "/images/partners/athena.svg", alt: "Athena Nutrients" },
   { src: "/images/partners/trolmaster.webp", alt: "TrolMaster" },
   { src: "/images/partners/matrix.svg", alt: "Matrix LED" },
-  { src: "/images/partners/ripperseeds.jpg", alt: "Ripper Seeds" },
 ];
 
 // Duplicamos (x4) para garantizar que el track sea siempre más ancho que la pantalla
